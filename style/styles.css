@@ -1,9 +1,18 @@
-.slider-caption {
-position:
+.parent-container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.slider-heading {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 .img-opacity {
   filter: brightness(60%);
 }
+
 .social-icons {
   display: flex;
   justify-content: center;
@@ -15,3 +24,4 @@ position:
   font-size: 20px;
   color: white;
 }
+
