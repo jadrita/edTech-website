@@ -1,3 +1,9 @@
+.slider-caption {
+position:
+}
+.img-opacity {
+  filter: brightness(60%);
+}
 .social-icons {
   display: flex;
   justify-content: center;
